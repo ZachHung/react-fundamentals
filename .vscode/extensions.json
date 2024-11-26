@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "dsznajder.es7-react-js-snippets",
+        "streetsidesoftware.code-spell-checker",
+        "dbaeumer.vscode-eslint",
+        "yoavbls.pretty-ts-errors",
+        "editorconfig.editorconfig",
+        "esbenp.prettier-vscode",
+        "streetsidesoftware.code-spell-checker-vietnamese"
+    ]
+}
